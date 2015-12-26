@@ -2,6 +2,7 @@ name: FastTwitch
 favicon: null
 layout_spectrum: 0.5033402058761567
 typography_spectrum: 0.3556910860352218
+title: Fast Twitch
 cta:
   domain: null
   bucket: null
