@@ -1,0 +1,28 @@
+name: FastTwitch
+favicon: null
+layout_spectrum: 0.5033402058761567
+typography_spectrum: 0.3556910860352218
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5243429765105247
+  lightness: 0.32321410393342376
+  saturation: 0.1930437721312046
+  rhythmicContrast: 0.49068204150535166
+purpose: []
