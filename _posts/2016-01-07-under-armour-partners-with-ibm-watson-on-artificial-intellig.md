@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.baltimoresun.com/business/under-armour-blog/bal-armoury-under-armour-partners-with-ibm-watson-on-fitness-tracking-app-20160107-story.html'
 title: Under Armour partners with IBM Watson on artificial intelligence-based coaching
-datePublished: '2016-01-07T23:25:03.321Z'
-dateModified: '2016-01-07T23:25:03.151Z'
+datePublished: '2016-01-07T23:25:58.558Z'
+dateModified: '2016-01-07T23:25:58.404Z'
 sourcePath: _posts/2016-01-07-under-armour-partners-with-ibm-watson-on-artificial-intellig.md
 published: true
 inFeed: true
